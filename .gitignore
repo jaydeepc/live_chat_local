@@ -1,3 +1,4 @@
 .env
 /.venv
 v_video_assistant/
+__pycache__/
